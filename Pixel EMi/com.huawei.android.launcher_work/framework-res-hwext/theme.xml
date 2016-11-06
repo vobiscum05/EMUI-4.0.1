@@ -8,7 +8,7 @@
 <!-- Testo menu divisori -->
 <color name="emui_list_separator_default">#ffffff</color>
 
-
+<color name="emui_custom_panel_background">#00000000</color>
 
 
 </resources>

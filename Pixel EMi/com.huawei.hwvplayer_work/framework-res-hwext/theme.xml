@@ -5,6 +5,8 @@
 <!-- Colora la statusbar -->
 <color name="primary_emui_light">#3d7377</color>
 
+<color name="emui_custom_panel_background">#00000000</color>
+
 
 </resources>
 

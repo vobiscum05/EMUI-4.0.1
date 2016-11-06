@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
  
-
+<color name="emui_custom_panel_background">#00000000</color>
 
 <!-- Colora la statusbar -->
 <color name="primary_emui_light">#3d7377</color>
