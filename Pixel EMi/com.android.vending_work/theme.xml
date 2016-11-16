@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+   
+    <color name="friend_review_card_read_full_review_color">#4d9297</color>
+    <color name="play_apps_primary">#4d9297</color>
+    <color name="play_apps_primary_disabled">#4d9297</color>
+    <color name="play_drawer_mini_profile_background">#4d9297</color>
+    <color name="play_apps_secondary">#4d9297</color>
+   
+   
+</resources>
