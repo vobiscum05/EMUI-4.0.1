@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  
+<!-- Colore tab e cerchi -->
+
+<color name="accent">#4d9297</color>
+<color name="accent_dark">#4d9297</color>
+<color name="accent_light">#4d9297</color>
+<color name="accent_material_light">#4d9297</color>
+
+
+<!-- Colori Tab Alti -->
+
+<color name="action_mode">#4d9297</color>
+<color name="action_mode_disable">#356569</color>
+<color name="action_mode_dark">#4d9297</color>  
+<color name="action_mode_dark_disabled">#356569</color>
+<color name="primary">#4d9297</color>
+<color name="primary_dark">#356569</color>
+  
+<color name="selection_check_background">#4d9297</color>
+<color name="tab_indicator">#356569</color>
+
+<color name="voice_note_scrubber_blue">#ff000000</color>
+<color name="voice_note_scrubber_green">#ff000000</color>
+<color name="voice_note_scrubber_grey">#ff000000</color>
+
+</resources>
+
