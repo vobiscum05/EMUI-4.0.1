@@ -30,4 +30,6 @@
     <color name="applock_numpad_bg_normal_color">#00ffff</color>
     <color name="applock_numpad_bg_pressed_color">#000000</color>
     <color name="applock_numpad_bg_disable_color">#ffffff</color>	
+	
+	<color name="preference_divider_grey">#00000000</color>
 </hwthemes>

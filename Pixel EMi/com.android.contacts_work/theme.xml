@@ -6,5 +6,6 @@
   <!--控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
   <color name="background_change">#00000000</color>
 
+  <color name="preference_divider_grey">#00000000</color>
    
 </hwthemes>

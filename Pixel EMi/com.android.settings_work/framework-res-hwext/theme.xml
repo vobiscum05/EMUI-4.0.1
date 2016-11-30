@@ -9,6 +9,7 @@
 <!-- Colora la statusbar -->
 <color name="primary_emui_light">#3d7377</color>
 
+<color name="preference_divider_grey">#00000000</color>
 
 
 </resources>
