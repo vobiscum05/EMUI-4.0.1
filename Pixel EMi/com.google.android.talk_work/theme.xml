@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+    <color name="quick_send_active_background_color">#ff4d9297</color>
+    <color name="edit_participants_toolbar_color_one_on_one">#ff4d9297</color>
+    <color name="edit_participants_statusbar_color_one_on_one">#ff356569</color>
+    <color name="button_default_state">#ff4d9297</color>
+    <color name="button_pressed_state">#ff356569</color>
+    <color name="primary">#ff4d9297</color>
+    <color name="floating_action_button_pressed_color">#ff356569</color>
+    <color name="floating_action_button_unpressed_color">#ff4d9297</color>
+    <color name="status_overlay_overflow_number_background_color">#ff4d9297</color>
+    <color name="indicator_color">#ff4d9297</color>
+    <color name="fab_hangouts_primary_color">#ff4d9297</color>
+    <color name="primary_dark">#ff356569</color>
+    <color name="accent_dark">#ff356569</color>
+    <color name="quantum_googgreen">#ff4d9297</color>
+    <color name="hangouts_primary_color">#ff4d9297</color>
+ 
+</resources>
