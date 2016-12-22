@@ -9,6 +9,8 @@
 <!-- Testo menu divisori -->
 <color name="emui_list_separator_default">#ffffff</color>
 
+<color name="menuitem_default_checkedcolor">#4d9297</color>
+
 
 </resources>
 

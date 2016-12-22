@@ -9,6 +9,7 @@
 <!--状态栏和ActionBar的背景色-->
 <color name="primary_emui_light">#3d7377</color>
 
+<color name="menuitem_default_checkedcolor">#4d9297</color>
 
 </resources>
 

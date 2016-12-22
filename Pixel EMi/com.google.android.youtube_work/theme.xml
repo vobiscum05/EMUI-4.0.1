@@ -2,8 +2,11 @@
 <resources> 
 
     <color name="color_primary">#4d9297</color>
+	<color name="primary_dark">#de000000</color>
 	<color name="color_brand_primary">#ff4d9297</color>
     <color name="color_secondary">#4d9297</color>
+	<color name="play_commerce_primary">#ff4d9297</color>
+    <color name="play_commerce_primary_disabled">#804d9297</color>
 	<color name="color_brand_primary_dark">#ff356569</color>
     <color name="theme_main_color_primary">#4d9297</color>
     <color name="theme_main_color_primary_dark">#356569</color>
@@ -11,11 +14,8 @@
     <color name="line_separator">#004d9297</color>
     <color name="theme_main_actionbar_controls_color">#ffffff</color>
     <color name="red">#4d9297</color>
+	<color name="upload_color_primary">#ff4d9297</color>
 	<color name="edit_theme_main_color_primary">#ff4d9297</color>
-    <color name="theme_search_color_primary">#ffffff</color>
-    <color name="theme_search_color_primary_dark">#ffffff</color>
-    <color name="theme_search_actionbar_text_color_primary">#ffffff</color>
-    <color name="theme_search_actionbar_text_color_secondary">#ffffff</color>
     <color name="theme_main_window_background">#fefefe</color>
     <color name="ripple_material_dark">#4d9297</color>
     <color name="ripple_material_light">#4d9297</color>
@@ -40,12 +40,12 @@
     <color name="theme_main_tab_text_color_normal">#356569</color>
     <color name="theme_tab_fallback_text_color_activated_dark">#ffffff</color>
     <color name="theme_tab_fallback_text_color_normal_dark">#ffffff</color>
-    <color name="quantum_white_divider">#004d9297</color>
-    <color name="card_separator">#004d9297</color>
+    <color name="quantum_white_divider">#4d9297</color>
+    <color name="card_separator">#4d9297</color>
     <color name="upload_activity_privacy_separator_color">#828282</color>
     <color name="trending_video_separator_color">#004d9297</color>
     <color name="quantum_black_divider">#004d9297</color>
-
+    <color name="secondary_dark">#8a000000</color>
     <color name="youtube_red">#4d9297</color>
     <color name="youtube_blue">#4d9297</color>
     <color name="info_card_youtube_blue">#4d9297</color>
@@ -53,4 +53,14 @@
     <color name="primary_font">#ffffff</color>
 	<color name="highlighted_text_material_dark">#4d9297</color>
     <color name="highlighted_text_material_light">#4d9297</color>
+	<color name="lc_red">#ff4d9297</color>
+	<color name="lc_primary">#ff4d9297</color>
+	<color name="lc_replay_progress_bar">#ff4d9297</color>
+	<color name="lc_status_live">#ff4d9297</color>
+	<color name="play_movies_primary">#ff4d9297</color>
+    <color name="play_movies_primary_disabled">#804d9297</color>
+    <color name="play_movies_primary_v2">#ff4d9297</color>
+	
+	
+	
 </resources>

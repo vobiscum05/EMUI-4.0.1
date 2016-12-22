@@ -7,5 +7,7 @@
 
 <color name="emui_custom_panel_background">#00000000</color>
 
+<color name="menuitem_default_checkedcolor">#4d9297</color>
+
 </resources>
 

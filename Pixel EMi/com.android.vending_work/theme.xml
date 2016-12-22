@@ -7,6 +7,9 @@
     <color name="play_apps_primary_disabled">#4d9297</color>
     <color name="play_drawer_mini_profile_background">#4d9297</color>
     <color name="play_apps_secondary">#4d9297</color>
-   
-   
+	<color name="play_apps_primary_v2">#ff4d9297</color>
+    <color name="jpkr_vertical_secondary">#ff4d9297</color>
+    <color name="play_apps_secondary_v2">#ff4d9297</color>
+	
+	
 </resources>

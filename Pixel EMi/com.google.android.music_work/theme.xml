@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="play_music_primary_v2">#ff4d9297</color>
+	<color name="app_color">#ff4d9297</color>
+   	<color name="app_color_accented">#ff4d9297</color>
+    <color name="app_color_primary">#ff4d9297</color>
+    <color name="app_color_secondary">#ff4d9297</color>
+	<color name="family_template_bg_color">#ff4d9297</color>
+	<color name="gifting_price_tag">#ff4d9297</color>
+	<color name="play_music_secondary">#ff4d9297</color>
+    <color name="play_music_light">#ff4d9297</color>
+    <color name="play_music_primary">#ff356569</color>
+    <color name="play_music_primary_disabled">#804d9297</color>
+    <color name="play_music_primary_v2">#ff4d9297</color>
+    <color name="play_music_secondary">#ff356569</color>
+    <color name="play_music_secondary_v2">#ff4d9297</color>
+	<color name="play_apps_ent_primary">#ff356569</color>
+	<color name="play_apps_ent_recents">#ff4d9297</color>
+    <color name="play_apps_ent_secondary">#ff4d9297</color>
+	<color name="play_apps_primary">#ff4d9297</color>
+    <color name="play_apps_primary_disabled">#ff356569</color>
+    <color name="play_developer_primary_v2">#ff4d9297</color>
+    <color name="play_developer_secondary_v2">#ff356569</color>
+	<color name="play_music_recents">#ff4d9297</color>
+	<color name="play_multi_primary">#ff4d9297</color>
+    <color name="play_multi_primary_disabled">#804d9297</color>
+    <color name="play_multi_recents">#ff4d9297</color>
+    <color name="play_multi_secondary">#ff4d9297</color>
+    <color name="side_drawer_icon_selected_color">#ff4d9297</color>
+	<color name="wear_download_pie_chart_color">#ff4d9297</color>
+	<color name="play_newsstand_light">#ff4d9297</color>
+    <color name="play_newsstand_primary">#ff4d9297</color>
+    <color name="play_newsstand_primary_disabled">#804d9297</color>
+    <color name="play_newsstand_primary_v2">#ff4d9297</color>
+    <color name="play_newsstand_recents">#ff4d9297</color>
+    <color name="play_newsstand_secondary">#ff4d9297</color>
+    <color name="play_newsstand_secondary_v2">#ff4d9297</color>
+	
+	
+</resources>
