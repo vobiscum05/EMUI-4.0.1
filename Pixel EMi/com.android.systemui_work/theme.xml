@@ -21,4 +21,11 @@
 <color name="status_bar_expand_toolbox_text_intermediate_color">#6ed6e1</color>
 <color name="status_bar_expand_toolbox_edit_normal">#003BB9FF</color>	
 <drawable name="notification_panel_bg">#e5ffffff</drawable>
+
+<color name="nav_background_opaque">#ff4d9497</color>
+<color name="navigationbar_emui_dark">#ff000000</color>
+<color name="navigationbar_emui_light">#ff000000</color>
+
+
+
 </resources>
