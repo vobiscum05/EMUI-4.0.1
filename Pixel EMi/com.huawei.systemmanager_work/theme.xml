@@ -8,8 +8,9 @@
     <color name="theme_widget_progress_text_color">#4d9297</color>
     <color name="white">#4d9297</color>
     <color name="color_expandableList_item_bkg">#994d9297</color>
-
-
+    <color name="color_prevent_main_background">#4d9297</color>
+    <color name="main_scren_background_start">#4d9297</color>
+    <color name="main_scren_background_end">#4d9297</color>
     <color name="color_end_bg">#000000</color>
     <color name="color_start_bg">#000000</color>
     <color name="color_middle_bg">#000000</color>
